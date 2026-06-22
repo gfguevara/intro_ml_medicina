@@ -401,6 +401,23 @@ La inteligencia artificial posee una capacidad suprahumana incuestionable para i
 
 El futuro de la salud de alta gama no reside en la confrontación absurda de "Máquinas vs. Humanos". La verdadera revolución de alto rendimiento de la que ustedes serán protagonistas es la **Convergencia Simbiótica**: el ecosistema del **Médico Aumentado**, donde la Inteligencia Artificial procesa la complejidad de los datos a velocidades sobrehumanas para mitigar el error diagnóstico, mientras el Médico Humano interpreta esa salida probabilística bajo la luz de la Medicina Basada en la Evidencia, aplicando el juicio ético, el arte de la clínica y la compasión humana para sanar a la sociedad.
 
+
+---
+
+
+# Referencias Bibliográficas
+
+1. Goodfellow I, Bengio Y, Courville A. Deep Learning. Cambridge (MA): MIT Press; 2016.
+
+2. Bishop CM. Pattern Recognition and Machine Learning. New York (NY): Springer; 2006.
+
+3. Gulshan V, Peng L, Coram M, Stumpe MC, Wu D, Narayanaswamy A, et al. Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs. JAMA. 2016;316(22):2402-2410.
+
+4.Hastie T, Tibshirani R, Friedman J. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. 2nd ed. New York (NY): Springer; 2009.
+
+5. Topol EJ. Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again. New York (NY): Basic Books; 2019.
+
+
 ---
 
 # Ejercicios de Evaluación y Autocomprobación
