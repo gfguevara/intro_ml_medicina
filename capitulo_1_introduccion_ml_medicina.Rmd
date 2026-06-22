@@ -241,7 +241,7 @@ Sin embargo, si un paciente consume *ambas variables simultáneamente* en nivele
 
 ## Estructura del Perceptrón Multicapa: La Junta Médica del Hospital
 
-Para superar la barrera lineal, el Machine Learning dio el salto evolutivo hacia el **Perceptrón Multicapa (MLP)**, la arquitectura basal de las redes neuronales artificiales profundas. En lugar de utilizar una sola regresión logística aislada para emitir un juicio directo desde los síntomas crudos, el MLP organiza múltiples nodos o neuronas artificiales distribuidas estratégicamente en una serie de **Capas** organizadas jerárquicamente en cascada:
+Para superar la barrera lineal, el Machine Learning dio el salto evolutivo hacia el **Perceptrón Multicapa (MLP)**, la arquitectura basal de las redes neuronales artificiales profundas [1]. En lugar de utilizar una sola regresión logística aislada para emitir un juicio directo desde los síntomas crudos, el MLP organiza múltiples nodos o neuronas artificiales distribuidas estratégicamente en una serie de **Capas** organizadas jerárquicamente en cascada:
 
 [Image of Multilayer Perceptron showing input, hidden, and output layers]
 
@@ -399,7 +399,7 @@ El Machine Learning y los Grandes Modelos de Lenguaje actuales no han sido conce
 
 La inteligencia artificial posee una capacidad suprahumana incuestionable para identificar correlaciones matemáticas sutiles y patrones topográficos invisibles perdidos en el interior de millones de píxeles o extensas bases de datos moleculares [cite: 1-Why ML is exciting.txt]. Sin embargo, el algoritmo matemático carece por completo de comprensión ontológica, carece de empatía existencial, carece de contexto ético-social y es absolutamente incapaz de sostener con compasión la mano temblorosa de un ser humano en agonía al momento de comunicarle un diagnóstico oncológico devastador.
 
-El futuro de la salud de alta gama no reside en la confrontación absurda de "Máquinas vs. Humanos". La verdadera revolución de alto rendimiento de la que ustedes serán protagonistas es la **Convergencia Simbiótica**: el ecosistema del **Médico Aumentado**, donde la Inteligencia Artificial procesa la complejidad de los datos a velocidades sobrehumanas para mitigar el error diagnóstico, mientras el Médico Humano interpreta esa salida probabilística bajo la luz de la Medicina Basada en la Evidencia, aplicando el juicio ético, el arte de la clínica y la compasión humana para sanar a la sociedad.
+El futuro de la salud de alta gama no reside en la confrontación absurda de "Máquinas vs. Humanos". La verdadera revolución de alto rendimiento de la que ustedes serán protagonistas es la **Convergencia Simbiótica**: el ecosistema del **Médico Aumentado**, donde la Inteligencia Artificial procesa la complejidad de los datos a velocidades sobrehumanas para mitigar el error diagnóstico, mientras el Médico Humano interpreta esa salida probabilística bajo la luz de la Medicina Basada en la Evidencia, aplicando el juicio ético, el arte de la clínica y la compasión humana para sanar a la sociedad [5].
 
 
 ---
